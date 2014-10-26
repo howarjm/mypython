@@ -13,8 +13,6 @@ def averages(grades):
     averages = []
 
     for grades_list in grades:
-        # Calculate the average of grades_list and append it
-        # to averages.
 
         total = 0
         for mark in grades_list:
